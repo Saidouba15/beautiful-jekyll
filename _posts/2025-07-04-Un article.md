@@ -19,6 +19,8 @@ L'histoire de Kidira est également fortement liée à celle du chemin de fer Da
 Défis et Potentiel
 Malgré son importance stratégique, Kidira fait face à des défis inhérents à toute ville frontalière, notamment en termes d'infrastructures et de gestion des flux. Cependant, son potentiel de développement est immense. Les autorités locales et les partenaires internationaux s'efforcent de renforcer ses capacités et d'améliorer les conditions de vie de ses habitants. Le développement du commerce, l'amélioration des services et la valorisation de son patrimoine culturel sont autant d'axes qui dessinent un avenir prometteur pour Kidira.
 
+![terrain]({{"/assets/img/terrain.jpeg"|relave_url}})
+
 Une Atmosphère Unique
 Au-delà de son rôle économique, Kidira est aussi une ville à l'âme unique. Ses marchés animés, ses couleurs vives et la gentillesse de ses habitants en font un lieu où l'on ressent l'authenticité de la vie sénégalaise. C'est une ville où l'histoire, la culture et le dynamisme économique se rencontrent, offrant un aperçu fascinant de la vitalité de l'Afrique de l'Ouest.
 
