@@ -9,7 +9,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum interdum ac 
 Donec vel ultricies magna, a malesuada magna. Nunc in dui scelerisque, luctus metus et, commodo metus. Praesent sollicitudin, nulla vitae feugiat pretium, metus urna molestie turpis, at pretium neque nisl scelerisque ante. Nullam erat libero, vulputate ut molestie at, hendrerit quis purus. Vivamus fringilla ipsum vel lectus scelerisque finibus. Maecenas ac tempus sapien. Vivamus interdum pharetra ante. Proin nisi enim, vulputate in fermentum nec, lobortis eget metus. Etiam in purus sollicitudin, ultrices risus volutpat, efficitur elit. Praesent non felis dolor.
 
 ![café](https://www.publicdomainpictures.net/en/view-image.php?image=340113&picture=coffee-vintage-retro-poster)
-![Rayon]({{"/assets/img/rayon.jpeg"| relative_url}})
+![Rayon]({{"/assets/img/rayon.jpeg" | relative_url}})
 
 Suspendisse vehicula neque ac turpis pellentesque placerat. Maecenas tempor sapien vel ultrices aliquet. Integer euismod massa augue, id ornare lorem feugiat eu. Nulla ut porttitor elit. Aliquam erat volutpat. Sed dignissim, ligula eget pharetra consequat, nulla nibh consequat quam, vel consectetur erat nisl sit amet massa. Integer placerat commodo gravida. Donec semper consequat congue. Pellentesque ligula ipsum, gravida eget ante non, varius luctus nulla. Ut ligula sapien, iaculis ut malesuada at, convallis eu dui. Praesent mollis, magna nec consectetur dapibus, neque nunc porta sem, sed mollis nisl nunc at erat. Morbi non dignissim elit. Ut diam nulla, ultricies sit amet dignissim vel, placerat in augue. Maecenas ultrices lectus id eros auctor interdum. Integer tristique tempus justo a viverra. Suspendisse auctor consectetur mi non mollis.
 
