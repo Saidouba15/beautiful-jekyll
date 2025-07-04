@@ -6,6 +6,8 @@ published: true
 ---
 Surnommée la "Porte d'Or" du Sénégal, Kidira est bien plus qu'une simple ville frontalière. Située à l'extrémité est du pays, à la jonction avec le Mali, cette localité joue un rôle crucial dans les échanges économiques et culturels de la région.
 
+![ville]({{"/assets/img/Ville.jpeg"|relave_url}})
+
 Un Carrefour Stratégique
 Kidira doit sa notoriété à sa position géographique privilégiée. Traversée par le fleuve Sénégal et bordée par la Route Nationale 1, elle constitue un point de passage incontournable pour le commerce transfrontalier. Marchandises, véhicules et voyageurs transitent quotidiennement par Kidira, faisant d'elle un véritable hub logistique pour l'Afrique de l'Ouest. Cette activité incessante confère à la ville une atmosphère vibrante, où se mêlent différentes cultures et langues.
 
