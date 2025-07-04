@@ -1,7 +1,7 @@
 ---
 layou: post
-title: test de moi 
-Subtitle: un petit test pour voir
+title: La vérité sur les menteurs
+Subtitle: Qui te trompe une fois, le fera une deuxième fois si l'occasion se présente
 published: true
 ---
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum interdum ac dui eget feugiat. Duis vel tortor interdum, tempor ex viverra, aliquet justo. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec elementum euismod dui, sit amet pretium erat cursus vitae. Sed a rhoncus dui, sed semper urna. Nulla hendrerit lectus tempus vulputate luctus. Suspendisse vel ligula imperdiet, ornare lorem tempus, lacinia dolor.
