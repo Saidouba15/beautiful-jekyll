@@ -14,6 +14,8 @@ Kidira doit sa notoriété à sa position géographique privilégiée. Traversé
 Un Riche Passé Ferroviaire
 L'histoire de Kidira est également fortement liée à celle du chemin de fer Dakar-Niger. Inaugurée au début du XXe siècle, cette ligne historique a longtemps été l'épine dorsale du transport de marchandises et de personnes entre le Sénégal et le Mali. La gare de Kidira, autrefois un point névralgique du réseau ferroviaire, témoigne encore de cette époque florissante, et l'on y ressent le poids de son héritage.
 
+![GEO]({{"/assets/img/GEO.jpeg"|relave_url}})
+
 Défis et Potentiel
 Malgré son importance stratégique, Kidira fait face à des défis inhérents à toute ville frontalière, notamment en termes d'infrastructures et de gestion des flux. Cependant, son potentiel de développement est immense. Les autorités locales et les partenaires internationaux s'efforcent de renforcer ses capacités et d'améliorer les conditions de vie de ses habitants. Le développement du commerce, l'amélioration des services et la valorisation de son patrimoine culturel sont autant d'axes qui dessinent un avenir prometteur pour Kidira.
 
@@ -24,6 +26,8 @@ Le contexte de Kidira, en tant que ville frontalière avec le Mali, lui confère
 
 Une Zone de Surveillance Renforcée
 En raison de sa position stratégique, Kidira est un point sensible dans le dispositif sécuritaire sénégalais. La proximité avec le Mali, où des groupes djihadistes sont actifs, expose la ville à des risques d'infiltration et d'attaques. Les autorités sénégalaises ont donc considérablement renforcé leur présence à la frontière, avec le déploiement de gendarmes et de policiers pour contrôler les personnes et les véhicules. Des patrouilles sont constantes et la surveillance est rigoureuse.
+
+![Garsi]({{"/assets/img/Garsi.jpeg"|relave_url}})
 
 La Menace Transfrontalière
 L'actualité récente a malheureusement mis en lumière les défis sécuritaires de la région. Des attaques ont eu lieu à Diboly, une localité malienne située à seulement quelques kilomètres de Kidira, visant des postes frontaliers et perturbant le commerce. Ces événements ont naturellement alerté les habitants et les autorités sénégalaises, soulignant la nécessité d'une coopération transfrontalière renforcée pour faire face à des menaces qui ne reconnaissent pas les frontières.
