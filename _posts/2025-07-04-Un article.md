@@ -4,7 +4,7 @@ title: KIDIRA Ma ville, Ma fiertè
 Subtitle: Les enjeux sécuritaire de la commune de KIDIRA
 published: true
 ---
-Surnommée la "Porte d'Or" du Sénégal, Kidira est bien plus qu'une simple ville frontalière. Située à l'extrémité est du pays, à la jonction avec le Mali, cette localité joue un rôle crucial dans les échanges économiques et culturels de la région.
+*Surnommée la "Porte d'Or" du Sénégal, Kidira est bien plus qu'une simple ville frontalière. Située à l'extrémité est du pays, à la jonction avec le Mali, cette localité joue un rôle crucial dans les échanges économiques et culturels de la région.*
 
 ![ville]({{"/assets/img/Ville.jpeg"|relave_url}})
 
